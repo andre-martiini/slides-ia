@@ -9,7 +9,7 @@ from pptx import Presentation
 from pptx.util import Inches
 
 # --- CONFIGURAÇÃO ---
-API_KEY = "AIzaSyCKONuumd3OwGV0k2axTCwDG3HDGpwo_5g" # Substitua pela sua chave
+API_KEY = "XXX" # Substitua pela sua chave
 MODELO = 'gemini-2.5-flash'
 
 class Slide(BaseModel):
