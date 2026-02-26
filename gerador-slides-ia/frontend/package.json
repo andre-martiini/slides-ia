@@ -1,0 +1,17 @@
+{
+  "name": "gerador-slides-ia-frontend",
+  "version": "1.0.0",
+  "description": "Frontend do Gerador de Slides com IA",
+  "main": "SlidesTool.tsx",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "firebase": "^10.0.0",
+    "pptxgenjs": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
